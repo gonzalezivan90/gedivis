@@ -37,3 +37,8 @@ Folders:
 - rdat_eco: Spatial layers (original and simplified) for plot on the geographical panel
 - umap_2a: UMAP (dimension reduction) L2a data for several sample sizes stored as data frames
 - umap_2b: UMAP (dimension reduction) L2a data for several sample sizes stored as data frames
+
+Original data sources:
+- Biotic regions: Vectorial layer from Environmental Studies Intitute in Colombia (Instituto de Hidrología, Meteorología y Estudios Ambientales - IDEAM). Available [here](http://www.siac.gov.co/catalogo-de-mapas) (1.7GB).
+- Ecosystems: Vectorial layer from Environmental Studies Intitute in Colombia (Instituto de Hidrología, Meteorología y Estudios Ambientales - IDEAM). Available [here](http://www.siac.gov.co/catalogo-de-mapas) (40MB).
+- GEDI points: HDF5 files from NASA level 2 prdocuts repositories. Check more [here](https://lpdaac.usgs.gov/products/gedi02_av001/) (~10 GB)
