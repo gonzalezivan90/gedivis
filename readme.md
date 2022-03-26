@@ -1,3 +1,5 @@
+This tool allow users to explore GEDI measurements across Colombian regions and ecosystems. The project is led by Dr. Patrick Jantz (Patrick.Jantz@nau.edu) and developed by Ph.D. student Ivan Gonzalez (ig299@nau.edu)
+
 This code requires an R file that contains the front ent. Due the data size, most of files used in this app are pre-processed and stored in RData format.
 Files can de downloaded from [here] (https://drive.google.com/open?id=12IDvY3dG64yGz2kq1BEdpxjUdmK_KsQt&usp=drive_fs)
 
